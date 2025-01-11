@@ -1,0 +1,902 @@
+[
+    {
+        "model": "Dodge Charger",
+        "year": 2000,
+        "plate_number": "FKD-2220",
+        "location": {
+            "latitude": 27.545946700801412,
+            "longitude": -120.65494868822628
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2022,
+        "plate_number": "XFD-3496",
+        "location": {
+            "latitude": 48.466582830263235,
+            "longitude": -76.41031374980362
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2011,
+        "plate_number": "WEI-0396",
+        "location": {
+            "latitude": 46.28340873426433,
+            "longitude": -122.20606684331439
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2017,
+        "plate_number": "OES-4633",
+        "location": {
+            "latitude": 45.592331193612765,
+            "longitude": -108.94069226635796
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2007,
+        "plate_number": "YFL-7098",
+        "location": {
+            "latitude": 45.48208592045949,
+            "longitude": -102.9455405658772
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2002,
+        "plate_number": "ILX-3072",
+        "location": {
+            "latitude": 39.9941835289456,
+            "longitude": -78.96278878864575
+        }
+    },
+    {
+        "model": "Toyota Corolla",
+        "year": 2005,
+        "plate_number": "SCF-5423",
+        "location": {
+            "latitude": 46.4674290354847,
+            "longitude": -109.27528509775081
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2020,
+        "plate_number": "VLE-6846",
+        "location": {
+            "latitude": 45.15089540107059,
+            "longitude": -96.52913283220987
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2016,
+        "plate_number": "BXN-9054",
+        "location": {
+            "latitude": 34.42161606009673,
+            "longitude": -89.80661553419745
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2010,
+        "plate_number": "XKQ-7983",
+        "location": {
+            "latitude": 34.8209048679112,
+            "longitude": -75.99106144244666
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2013,
+        "plate_number": "ILV-1233",
+        "location": {
+            "latitude": 32.93191413147319,
+            "longitude": -97.43561089718732
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2017,
+        "plate_number": "SFA-0098",
+        "location": {
+            "latitude": 47.84660604552585,
+            "longitude": -115.7794856109919
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2010,
+        "plate_number": "MGT-3370",
+        "location": {
+            "latitude": 49.15868334967159,
+            "longitude": -73.35269642318968
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2007,
+        "plate_number": "SJY-0813",
+        "location": {
+            "latitude": 34.88040628582286,
+            "longitude": -99.67929643655016
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2008,
+        "plate_number": "TXZ-6824",
+        "location": {
+            "latitude": 31.267575357890834,
+            "longitude": -80.1430758398752
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2009,
+        "plate_number": "OYL-9719",
+        "location": {
+            "latitude": 48.751096744370614,
+            "longitude": -88.91059022790212
+        }
+    },
+    {
+        "model": "Jeep Wrangler",
+        "year": 2008,
+        "plate_number": "GXT-7100",
+        "location": {
+            "latitude": 33.777467580035605,
+            "longitude": -123.6816432780498
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2005,
+        "plate_number": "RYO-4252",
+        "location": {
+            "latitude": 29.29757020309755,
+            "longitude": -100.10702738620992
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2001,
+        "plate_number": "CYO-2158",
+        "location": {
+            "latitude": 29.365195746476214,
+            "longitude": -72.19719007291064
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2001,
+        "plate_number": "XTJ-1037",
+        "location": {
+            "latitude": 42.07070320638066,
+            "longitude": -87.80869664299746
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2010,
+        "plate_number": "PZD-5015",
+        "location": {
+            "latitude": 39.04439637632423,
+            "longitude": -124.15305055604145
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2011,
+        "plate_number": "VAM-6559",
+        "location": {
+            "latitude": 30.095682975549344,
+            "longitude": -121.03503853483843
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2007,
+        "plate_number": "QQL-3457",
+        "location": {
+            "latitude": 48.96664459077287,
+            "longitude": -124.69367492735701
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2019,
+        "plate_number": "MPD-9768",
+        "location": {
+            "latitude": 49.1611776239878,
+            "longitude": -121.60467902752956
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2018,
+        "plate_number": "XII-8773",
+        "location": {
+            "latitude": 48.05029571368843,
+            "longitude": -83.62968178986367
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2017,
+        "plate_number": "SKJ-1667",
+        "location": {
+            "latitude": 36.156871941343496,
+            "longitude": -116.54174144643417
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2004,
+        "plate_number": "MCG-7618",
+        "location": {
+            "latitude": 27.509932950543213,
+            "longitude": -82.5360045167159
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2015,
+        "plate_number": "YQW-2734",
+        "location": {
+            "latitude": 30.321857061079275,
+            "longitude": -86.39510846716047
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2019,
+        "plate_number": "WJZ-3766",
+        "location": {
+            "latitude": 49.11442725573852,
+            "longitude": -96.25882652004984
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2001,
+        "plate_number": "TKF-6842",
+        "location": {
+            "latitude": 30.313297071529398,
+            "longitude": -115.29174032086404
+        }
+    },
+    {
+        "model": "Nissan Altima",
+        "year": 2009,
+        "plate_number": "SAJ-3125",
+        "location": {
+            "latitude": 47.9124201254198,
+            "longitude": -119.9454024529328
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2001,
+        "plate_number": "VOU-9881",
+        "location": {
+            "latitude": 43.615675113995145,
+            "longitude": -118.53378171285533
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2019,
+        "plate_number": "RBX-2121",
+        "location": {
+            "latitude": 25.789745337566664,
+            "longitude": -80.22304530250389
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2019,
+        "plate_number": "EKO-5171",
+        "location": {
+            "latitude": 38.588018375173306,
+            "longitude": -102.52634112626797
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2012,
+        "plate_number": "NGA-6221",
+        "location": {
+            "latitude": 33.51914282706227,
+            "longitude": -94.49294436121455
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2014,
+        "plate_number": "UCB-7993",
+        "location": {
+            "latitude": 25.1826473471231,
+            "longitude": -108.4293303751087
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2020,
+        "plate_number": "TZM-3512",
+        "location": {
+            "latitude": 44.84405609145057,
+            "longitude": -103.4825745076659
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2021,
+        "plate_number": "EJA-3287",
+        "location": {
+            "latitude": 35.851541574200155,
+            "longitude": -117.09084781447855
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2003,
+        "plate_number": "TZM-3538",
+        "location": {
+            "latitude": 48.45615604507287,
+            "longitude": -76.4437014745917
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2004,
+        "plate_number": "NHA-7896",
+        "location": {
+            "latitude": 29.951580030503397,
+            "longitude": -76.8370780105778
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2009,
+        "plate_number": "PXL-6416",
+        "location": {
+            "latitude": 42.90375257575591,
+            "longitude": -85.09532946956008
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2019,
+        "plate_number": "GYH-9062",
+        "location": {
+            "latitude": 31.898417269049077,
+            "longitude": -91.6148438265605
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2007,
+        "plate_number": "WOQ-3245",
+        "location": {
+            "latitude": 36.7900619723618,
+            "longitude": -96.17049363528918
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2021,
+        "plate_number": "TTP-1319",
+        "location": {
+            "latitude": 27.085354458239763,
+            "longitude": -72.47551489715973
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2009,
+        "plate_number": "ZPL-9495",
+        "location": {
+            "latitude": 49.038072781065,
+            "longitude": -123.88608591826494
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2007,
+        "plate_number": "LFE-3591",
+        "location": {
+            "latitude": 31.366026380231506,
+            "longitude": -119.14661857924114
+        }
+    },
+    {
+        "model": "Jeep Wrangler",
+        "year": 2010,
+        "plate_number": "IQJ-1287",
+        "location": {
+            "latitude": 47.5848150546484,
+            "longitude": -69.72778495615661
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2015,
+        "plate_number": "WJO-7611",
+        "location": {
+            "latitude": 48.537380520436294,
+            "longitude": -124.1995361995693
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2004,
+        "plate_number": "GVR-9895",
+        "location": {
+            "latitude": 28.362352395057265,
+            "longitude": -124.42634371289479
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2019,
+        "plate_number": "XSG-4152",
+        "location": {
+            "latitude": 27.643622436537797,
+            "longitude": -116.20426837776208
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2018,
+        "plate_number": "BAF-5291",
+        "location": {
+            "latitude": 42.27826255530458,
+            "longitude": -72.91699377805612
+        }
+    },
+    {
+        "model": "Nissan Altima",
+        "year": 2012,
+        "plate_number": "PLV-7749",
+        "location": {
+            "latitude": 32.541525922245924,
+            "longitude": -102.5521723864712
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2002,
+        "plate_number": "WXX-4002",
+        "location": {
+            "latitude": 48.35049136921526,
+            "longitude": -103.40492458353962
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2015,
+        "plate_number": "NMN-1419",
+        "location": {
+            "latitude": 24.721632975206354,
+            "longitude": -97.16043720113028
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2007,
+        "plate_number": "VRQ-3407",
+        "location": {
+            "latitude": 43.51054257982082,
+            "longitude": -70.32294828590611
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2010,
+        "plate_number": "GWO-7340",
+        "location": {
+            "latitude": 30.050593547648305,
+            "longitude": -73.88401815523423
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2012,
+        "plate_number": "OKV-9065",
+        "location": {
+            "latitude": 25.16831217261541,
+            "longitude": -74.03576802395044
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2003,
+        "plate_number": "QDD-3452",
+        "location": {
+            "latitude": 40.38945890488763,
+            "longitude": -97.56810666419136
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2000,
+        "plate_number": "OCT-7851",
+        "location": {
+            "latitude": 38.81048556289096,
+            "longitude": -94.5372705951664
+        }
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "year": 2004,
+        "plate_number": "XCD-7646",
+        "location": {
+            "latitude": 46.708988372657544,
+            "longitude": -118.89086951155478
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2017,
+        "plate_number": "HFH-2278",
+        "location": {
+            "latitude": 36.28295776566244,
+            "longitude": -85.90552087193299
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2000,
+        "plate_number": "DOX-3608",
+        "location": {
+            "latitude": 27.13589618163728,
+            "longitude": -77.49280233157162
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2013,
+        "plate_number": "MFJ-0336",
+        "location": {
+            "latitude": 45.99350858486682,
+            "longitude": -89.60136239120665
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2008,
+        "plate_number": "PHC-4430",
+        "location": {
+            "latitude": 44.095220912538096,
+            "longitude": -78.87059135050433
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2004,
+        "plate_number": "FKA-2569",
+        "location": {
+            "latitude": 48.51357869017719,
+            "longitude": -117.2530320330851
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2019,
+        "plate_number": "YXQ-3819",
+        "location": {
+            "latitude": 43.76317125984255,
+            "longitude": -120.9740879947037
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2010,
+        "plate_number": "OWT-6418",
+        "location": {
+            "latitude": 48.40997777578161,
+            "longitude": -90.96457819233486
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2019,
+        "plate_number": "MAI-9627",
+        "location": {
+            "latitude": 29.769274801171708,
+            "longitude": -118.43819612163661
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2014,
+        "plate_number": "TLD-7680",
+        "location": {
+            "latitude": 39.08416666396456,
+            "longitude": -104.19722376767317
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2009,
+        "plate_number": "NSQ-6314",
+        "location": {
+            "latitude": 48.55184185606678,
+            "longitude": -67.72241786951338
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2022,
+        "plate_number": "SRO-6437",
+        "location": {
+            "latitude": 48.494646573073695,
+            "longitude": -80.7618789256596
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2013,
+        "plate_number": "WZY-4045",
+        "location": {
+            "latitude": 24.840621100299632,
+            "longitude": -100.74122680038917
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2009,
+        "plate_number": "MXH-0228",
+        "location": {
+            "latitude": 32.262155122002376,
+            "longitude": -99.43882034781761
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2022,
+        "plate_number": "OYT-2207",
+        "location": {
+            "latitude": 39.09994458088947,
+            "longitude": -113.40437674477705
+        }
+    },
+    {
+        "model": "Nissan Altima",
+        "year": 2013,
+        "plate_number": "CCF-2176",
+        "location": {
+            "latitude": 43.973784045535005,
+            "longitude": -84.64930575311662
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2009,
+        "plate_number": "FLD-8163",
+        "location": {
+            "latitude": 38.4453559184608,
+            "longitude": -104.85523653882817
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2010,
+        "plate_number": "VMP-9282",
+        "location": {
+            "latitude": 45.566605131117456,
+            "longitude": -90.32396593804688
+        }
+    },
+    {
+        "model": "Nissan Altima",
+        "year": 2015,
+        "plate_number": "JZY-8854",
+        "location": {
+            "latitude": 46.22877006324096,
+            "longitude": -99.1872740462451
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2011,
+        "plate_number": "QVU-8255",
+        "location": {
+            "latitude": 38.49938171501785,
+            "longitude": -112.63704742111818
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2020,
+        "plate_number": "BZF-8024",
+        "location": {
+            "latitude": 48.29117596064562,
+            "longitude": -79.59073583155462
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2003,
+        "plate_number": "NTY-7125",
+        "location": {
+            "latitude": 36.918627232645406,
+            "longitude": -74.48048409555656
+        }
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2017,
+        "plate_number": "FSU-4746",
+        "location": {
+            "latitude": 44.90118866243945,
+            "longitude": -95.03777077699112
+        }
+    },
+    {
+        "model": "Toyota Corolla",
+        "year": 2013,
+        "plate_number": "AWE-9566",
+        "location": {
+            "latitude": 31.766467767572188,
+            "longitude": -116.599178083288
+        }
+    },
+    {
+        "model": "Jeep Wrangler",
+        "year": 2007,
+        "plate_number": "LOF-7423",
+        "location": {
+            "latitude": 41.619499571917466,
+            "longitude": -109.35994258561966
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2018,
+        "plate_number": "VNK-0896",
+        "location": {
+            "latitude": 46.60274677616275,
+            "longitude": -84.75654173189149
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2012,
+        "plate_number": "HZW-8751",
+        "location": {
+            "latitude": 47.574838140145076,
+            "longitude": -107.96738103453026
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2006,
+        "plate_number": "XUU-4870",
+        "location": {
+            "latitude": 48.13750152989441,
+            "longitude": -79.01616244130298
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2010,
+        "plate_number": "GMV-6117",
+        "location": {
+            "latitude": 36.596017895926536,
+            "longitude": -113.95581277686146
+        }
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2014,
+        "plate_number": "UHT-8463",
+        "location": {
+            "latitude": 30.832848134858267,
+            "longitude": -115.74441254937453
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2012,
+        "plate_number": "ANC-4647",
+        "location": {
+            "latitude": 28.879723030589922,
+            "longitude": -101.98336555302325
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2002,
+        "plate_number": "RKV-5570",
+        "location": {
+            "latitude": 41.314642252076524,
+            "longitude": -91.10642171706212
+        }
+    },
+    {
+        "model": "Dodge Charger",
+        "year": 2012,
+        "plate_number": "PJX-0338",
+        "location": {
+            "latitude": 38.57118637645237,
+            "longitude": -85.03123228988945
+        }
+    },
+    {
+        "model": "Ford F-150",
+        "year": 2009,
+        "plate_number": "AJA-4167",
+        "location": {
+            "latitude": 41.66094194329854,
+            "longitude": -85.98538620898725
+        }
+    },
+    {
+        "model": "Jeep Wrangler",
+        "year": 2020,
+        "plate_number": "KWL-7115",
+        "location": {
+            "latitude": 28.10965909312982,
+            "longitude": -94.18777836935168
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2018,
+        "plate_number": "QKL-4094",
+        "location": {
+            "latitude": 33.303935294502274,
+            "longitude": -101.32669197608841
+        }
+    },
+    {
+        "model": "Audi A4",
+        "year": 2010,
+        "plate_number": "AHQ-5246",
+        "location": {
+            "latitude": 30.214619407770996,
+            "longitude": -101.7178432002278
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2022,
+        "plate_number": "TRD-5923",
+        "location": {
+            "latitude": 42.18663338740677,
+            "longitude": -97.33809352147676
+        }
+    },
+    {
+        "model": "Chevrolet Tahoe",
+        "year": 2006,
+        "plate_number": "PIK-8675",
+        "location": {
+            "latitude": 29.889866815846442,
+            "longitude": -116.1093807718486
+        }
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2013,
+        "plate_number": "JRG-2031",
+        "location": {
+            "latitude": 34.45712774855991,
+            "longitude": -70.03239646703443
+        }
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2007,
+        "plate_number": "MNF-5353",
+        "location": {
+            "latitude": 42.54353638461008,
+            "longitude": -115.59456047552973
+        }
+    }
+]
